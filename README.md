@@ -39,6 +39,7 @@ machine-learning models into production smart applications. We are using Jupyter
 
 ### Questions Explored
 
+To view the entire list of questions explored and results, refer to the [presentation](https://github.com/reeya26/Analyzing-Amazon-Product-Data/blob/main/Final%20Project_Sagemaker-2.pdf)
 * Identifying Similar Items
 * Finding Shortest Path between Nodes
 
